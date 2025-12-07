@@ -5,7 +5,7 @@ STUDENT_FILE = "students.txt"
 COURSE_FILE = "courses.txt"
 
 # Sample users
-USERS = {"admin": "admin123", "Dhruva": "Std1", "Amarnath": "Std2", "Balaji":"Std3"}
+USERS = {"admin": "admin123", "Dhruva": "Std1", "Amarnath": "Std2", "Balaji":"Std3", "Chandini":"Std4"}
 
 # Clear screen function
 def clear_screen():
@@ -43,6 +43,7 @@ def display_header():
                     *             1. Konapala Dhruva                *
                     *             2. Pittu Amarnath                 *
                     *             3. Ravulapalli Balaji             *
+                    *             4. Chandini Sheik                 *
                     *************************************************
 """)
     pause()
